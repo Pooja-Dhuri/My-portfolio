@@ -26,7 +26,7 @@ const Contects = () => {
               </a>
             </div>
             <div>
-              <a href="https://github.com/PoojaD12345"target="_blank">
+              <a href="https://github.com/Pooja-Dhuri"target="_blank">
                 <i id="i" className="fab fa-github"></i>
               </a>
             </div>

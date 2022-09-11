@@ -65,12 +65,12 @@ const Projects = () => {
               </p>
               </div>
               <div className="media-icons" id="linkss">
-                <div><a href="https://github.com/PoojaD12345/-magenta-squirrel-5189"target="_blank">
+                <div><a href="https://github.com/Pooja-Dhuri/SkinStore.com"target="_blank">
                   {" "}
                   <i id="ic" className="fab fa-github"></i>
                 </a></div>
                 <div>
-                <a href="https://nameless-island-69654.herokuapp.com/"target="_blank"><AiOutlineGlobal id="btns"/>
+                <a href="https://skin-store-clone.netlify.app"target="_blank"><AiOutlineGlobal id="btns"/>
                 </a></div>
               </div>
             </div>

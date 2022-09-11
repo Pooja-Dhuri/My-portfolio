@@ -33,7 +33,7 @@
         <div className="media-icons">
           <a href="https://www.linkedin.com/in/pooja-dhuri-a0b63b221/" target="_blank"
             ><i className="fab fa-linkedin" id="icons"></i></a>
-          <a href="https://github.com/PoojaD12345"target="_blank"
+          <a href="https://github.com/Pooja-Dhuri"target="_blank"
             ><i className="fab fa-github" id='icons'></i></a>
         </div>
       </div>

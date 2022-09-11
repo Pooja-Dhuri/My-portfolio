@@ -18,7 +18,7 @@ const Home = () => {
           <div className="text-three">I'm a <span style={{color:"#9b1750"}}>Frontend Developer</span> </div>
           <div className="button">
                 <button>
-                  <a href="https://drive.google.com/file/d/1nOccSceK8leduhXr9XBK2N3PyVNaOrsY/view?usp=sharing" target="_blank">
+                  <a href="https://drive.google.com/file/d/1jgYywLWykKqTpf-rVDRBxXzgRhDMmN88/view?usp=sharing" target="_blank">
                     Download CV
                   </a>
                 </button>
