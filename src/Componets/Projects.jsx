@@ -110,7 +110,7 @@ const Projects = () => {
               <p>Teckstack:HTML | JavaScript | React | CSS | ChakraUI </p>
               </div>
               <div className="media-icons" id="linkss">
-                <a href="https://github.com/pushpraj15295/deccan-project4"target="_blank">
+                <a href="https://github.com/Pooja-Dhuri/My-portfolio"target="_blank">
                   {" "}
                   <i id="ic" className="fab fa-github"></i>
                 </a>
