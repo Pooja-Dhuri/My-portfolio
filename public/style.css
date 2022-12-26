@@ -442,10 +442,10 @@ section .button button:hover{
   color: #fff;
 }
 /* Contact Me CSS */
-.contact{
-  /* background: #F0F8FF; */
-  /* background-color: #10101a; */
-}
+/* .contact{
+  background: #F0F8FF;
+  background-color: #10101a;
+} */
 #icon{
   height: 40px;
   width: 40px;
