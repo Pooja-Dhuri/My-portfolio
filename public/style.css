@@ -646,3 +646,25 @@ footer .text span a:hover{
     grid-template-rows: auto;
   }
 }
+.work{
+  border: 1px solid black;
+  margin-top: 50px;
+}
+.abbutton button{
+  outline: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  margin-right: 8px;
+  font-size: 20px;
+  font-weight: 400;
+  background: #9b1750;
+  color: #fff;
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: all 0.4s ease;
+}
+.abbutton button:hover{
+  background-color: #e3e2de;
+  color: black;
+  border: 1px solid black;
+}

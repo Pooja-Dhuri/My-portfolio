@@ -49,7 +49,6 @@ const Skills = () => {
                 <div className="topic">Cypress</div>
                 {/* <!-- <div className="per">90%</div> --> */}
               </div>
-              
             </div>
           </div>
         </div>
