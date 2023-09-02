@@ -30,7 +30,7 @@ const Home = () => {
           <div className="text-three">I'm a <span style={{color:"#9b1750"}}>Full-Stack Developer</span> </div>
           <div className="button">
                 <button>
-                <a href="https://drive.google.com/file/d/1R3rBdfJglNU_MXDDd7YmKepvUJQaCIGS/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1y3gT569eslRrp5A465vIDFTQ2DLBRvEi/view?usp=sharing" target="_blank">
                   View Resume
                   </a>
                 </button>

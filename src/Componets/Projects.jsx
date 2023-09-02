@@ -110,11 +110,11 @@ const Projects = () => {
               <p>Teckstack:HTML | JavaScript | React | CSS | ChakraUI </p>
               </div>
               <div className="media-icons" id="linkss">
-                <a href="https://github.com/Pooja-Dhuri/My-portfolio"target="_blank">
+                <a href="https://github.com/Pooja-Dhuri/My-portfolio" target="_blank">
                   {" "}
                   <i id="ic" className="fab fa-github"></i>
                 </a>
-                <a href="https://pooja-dhuri-portfolio.netlify.app/"target="_blank">
+                <a href="https://poojadhuriportfolio.vercel.app" target="_blank">
                 <AiOutlineGlobal id="btns"/>
                 </a>
               </div>
