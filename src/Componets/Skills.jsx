@@ -27,7 +27,7 @@ const Skills = () => {
               </div>
               <div className="box">
               <div><img src="https://chiranjeev-thapliyal.vercel.app/svg/reactjs.svg" alt="" className="iconimg"/></div>
-                <div className="topic">React</div>
+                <div className="topic">React-Js</div>
                 {/* <!-- <div className="per">65%</div> --> */}
               </div>
               <div className="box">
@@ -41,12 +41,27 @@ const Skills = () => {
               </div>
               <div className="box">
                 <div><img src="chakra1.jfif" alt=""className="iconimg" /></div>
-                <div className="topic">ChakraUI</div>
+                <div className="topic">Chakra-UI</div>
                 {/* <!-- <div className="per">90%</div> --> */}
               </div>
               <div className="box">
-                <div><img src="cypress.jfif" alt=""className="iconimg" /></div>
-                <div className="topic">Cypress</div>
+              <div><img src="node.png" alt="" className="iconimg" /></div>
+                <div className="topic">Node-Js</div>
+                {/* <!-- <div className="per">90%</div> --> */}
+              </div>
+              <div className="box">
+              <div><img src="express.png" alt="" className="iconimg" /></div>
+                <div className="topic">Express-Js</div>
+                {/* <!-- <div className="per">90%</div> --> */}
+              </div>
+              <div className="box">
+              <div><img src="mongodb.jpeg" alt="" className="iconimg" /></div>
+                <div className="topic">Mongo-DB</div>
+                {/* <!-- <div className="per">90%</div> --> */}
+              </div>
+              <div className="box">
+              <div><img src="tailwind1.jpeg" alt="" className="iconimg" /></div>
+                <div className="topic">Tailwind CSS</div>
                 {/* <!-- <div className="per">90%</div> --> */}
               </div>
             </div>

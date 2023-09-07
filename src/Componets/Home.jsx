@@ -40,7 +40,7 @@ const Home = () => {
               </div>
         </div>
         <div className='homeImg'>
-          <img src='pooja.png'className='homeImg'/>
+          <img src='Pooja_Dhuri.jpg'className='homeImg'/>
         </div>
       </div>
     </section>
