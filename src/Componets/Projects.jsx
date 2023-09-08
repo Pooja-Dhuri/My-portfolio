@@ -27,8 +27,8 @@ const Projects = () => {
               <div className='paradiv'><p>
               Lumen5 combines powerful A.I. with a simple drag-and-drop interface to help you create professional video content in minutes. 
               </p></div>
-              <p>
-              REACT|REDUX|HTML5|CSS3|JAVASCRIPT|IMPORT|EXPORT,CHAKRA UI
+              <p className="tech">Teck stack :</p><p className="techstack">
+              React-Js | Redux | HTML5 | CSS3 | Javascript | Chakra-UI
               </p>
               </div>
               <div className="media-icons" id="linkss">
@@ -60,8 +60,8 @@ const Projects = () => {
               products like Skin-care,Beauty,Hare-care,Makeup Bath&Body
               etc. whole website clone using React.
               </p></div>
-              <p>
-                Teckstack:HTML | JavaScript | React | CSS | ChakraUI
+              <p className="tech">Teck stack :</p>
+                <p className="techstack"> HTML5 | JavaScript | React-Js | CSS3 | Chakra-UI
               </p>
               </div>
               <div className="media-icons" id="linkss">
@@ -86,7 +86,7 @@ const Projects = () => {
               <div className="topic">Shop.com</div>
               <div className="topicsum">
               <div className='paradiv'><p>This is a clone of E-commerce website where we have men's products, women's product,cosmetics and children products. functionalities like login,filteration,addtocart etc.</p></div>
-              <p>Teckstack:HTML,CSS,JavaScript </p></div>
+              <p className="tech">Teck stack :</p><p className="techstack"> HTML5 | CSS | JavaScript </p></div>
               <div className="media-icons" id="linkss">
                 <a href="https://github.com/rameshmane7218/shop.com"target="_blank">
                   {" "}
@@ -107,7 +107,7 @@ const Projects = () => {
               <div className="topicsum">
               <div className='paradiv'><p>This is My portfolio website where the information about me is mention over their. Skills,projects and the languages are mention.
              </p></div>
-              <p>Teckstack:HTML | JavaScript | React | CSS | ChakraUI </p>
+              <p className="tech">Teck stack :</p><p className="techstack"> HTML5 | JavaScript | React-Js | CSS3 | Chakra-UI </p>
               </div>
               <div className="media-icons" id="linkss">
                 <a href="https://github.com/Pooja-Dhuri/My-portfolio" target="_blank">

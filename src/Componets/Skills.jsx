@@ -61,7 +61,7 @@ const Skills = () => {
               </div>
               <div className="box">
               <div><img src="tailwind1.jpeg" alt="" className="iconimg" /></div>
-                <div className="topic">Tailwind CSS</div>
+                <div className="topic">Tailwind</div>
                 {/* <!-- <div className="per">90%</div> --> */}
               </div>
             </div>
